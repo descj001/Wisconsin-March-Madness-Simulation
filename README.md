@@ -1,1 +1,1 @@
-2024–25 NCAA March Madness Simulation, Wisconsin Badgers Analysis (R)
+This project simulates the NCAA March Madness tournament using a Bradley-Terry model with enhanced team strength estimates based on offensive, defensive, and schedule metrics. The tournament is simulated 10,000 times to generate probabilities for each team advancing through every round and winning the championship. These results provide a data-driven way to evaluate team performance expectations and understand how likely deep tournament runs truly are.
